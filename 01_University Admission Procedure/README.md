@@ -5,5 +5,4 @@ an algorithm to determine which applicants are going to be enrolled. At each sta
 the algorithm will gradually become more complex and comprehensive!
 
 used libraries: statistics
-
 <br/><br/>Learnmore at <a href="https://hyperskill.org">https://hyperskill.org/projects/163</a>
